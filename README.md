@@ -1,5 +1,5 @@
-# PFvpn-Sign11
-11111
+# PFvpn-Sign
+
 [PFvpn](https://purefast.net/)每日签到脚本.
 
 ## 介绍
@@ -100,7 +100,7 @@ $vi /etc/crontab
    | 序号 | 名称  | 值                            |
    | ---- | ----- | ----------------------------- |
    | 1    | USERS | 邮箱名，多用户通过&隔开       |
-   | 2    | PWD   | 密码，多用户通过&隔开         |
+   | 2    | PASSWORD   | 密码，多用户通过&隔开         |
    | 3    | SCKEY | Server酱密钥，多用户通过&隔开 |
 
    多用户示例：`example1@163.com&wxample2@qq.com`
