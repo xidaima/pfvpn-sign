@@ -6,7 +6,7 @@
 
 PFvpn提供了全球网络中继服务，免费版需要每日签到以获取会员天数和流量，国内网速达15Mbps
 
-注册链接：https://purefast.net/auth/register?code=OeJl
+注册链接：https://purefast.net/auth/register?code=rSHm
 
 ## 使用
 
