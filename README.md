@@ -1,4 +1,4 @@
-# PFvpn-Sign
+# PFvpn-Sign1
 
 [PFvpn](https://purefast.net/)每日签到脚本.
 
