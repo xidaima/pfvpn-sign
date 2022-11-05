@@ -1,6 +1,6 @@
 # PFvpn-Sign
 
-[PFvpn](https://purefast.net/)每日签到脚本
+[PFvpn](https://purefast.net/)每日签到脚本.
 
 ## 介绍
 
